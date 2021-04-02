@@ -12,7 +12,8 @@ body{
 }
 .name{
     border-radius:10px;
-    background:url(https://i.ibb.co/vvQ6BjX/bg3.jpg);
+    background:white;
+	box-shadow:20px 20px 20px rgba(0,0,0,0.5);
     text-align:center;
     color:green;
 }
@@ -20,6 +21,7 @@ table{
 	background:white;
 	width:70%;
 	margin: 0 auto;
+	box-shadow:20px 20px 20px rgba(0,0,0,0.5);
 }
 #banner{
     height:100px;
