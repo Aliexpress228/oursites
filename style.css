@@ -12,13 +12,13 @@ body{
 }
 .name{
     border-radius:10px;
-    background:white;
+    background: #B0B0B0;
 	box-shadow:20px 20px 20px rgba(0,0,0,0.5);
     text-align:center;
     color:green;
 }
 table{
-	background:white;
+	background:#B0B0B0;
 	width:70%;
 	margin: 0 auto;
 	box-shadow:20px 20px 20px rgba(0,0,0,0.5);
